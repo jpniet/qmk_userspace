@@ -1,0 +1,11 @@
+{
+    "modules": [
+        "zsa/oryx",
+        "zsa/mousejiggler",
+        "zsa/doubleclick",
+        "zsa/defaults",
+        "getreuer/palettefx",
+        "getreuer/mouse_turbo_click",
+        "drashna/pointing_device_gestures"
+    ]
+}
