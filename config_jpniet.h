@@ -63,7 +63,6 @@
 // Custom Configs
 #define CAPS_WORD_INVERT_ON_SHIFT
 #define LAYER_LOCK_IDLE_TIMEOUT 120000
-#define LAYER_STATE_16BIT
 
 // Pointing Device Gestures
 #define POINTING_DEVICE_GESTURES_TIMEOUT 1200
